@@ -1,1 +1,5 @@
 # Crystal-Moons
+
+Crystal Moons is a battle strategy game similar to Clash of Clans. You are a member of a planet in a large solar system. You are limited to joining 5 planets. Throughout the game, you will collect items. These can be used to become stronger in battle, level up, help your aliens (more on that later) and more. Very rarely, you will receive an item called a "___ Moon". You can add these moons to your planets. Throughout the game, you will collect aliens. You can store aliens on your moons, and they will defend your moon from being attacked. You can battle other moons on other planets. Win the battle, and depending on the moon type, a chuck of the moon will be given to you. If you keep battling the same moon again and again, you can fully defeat it and add it to your planet! Each moon can only store a certain type of alien, and has a maximum amount of aliens you may add. Plus, the game features private chat for each planet, and nice chillwave background music.
+
+Help us develop Cystal Moons by joining our discord server, located here: https://discord.gg/CXnjmHc
